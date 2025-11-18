@@ -1,9 +1,9 @@
 ```markdown
-# 🏦 Banking Transaction Analysis (Python + SQL + Excel)
+# Banking Transaction Analysis (Python + SQL + Excel)
 
 This project simulates a banking environment with **10,000 financial transactions** across branches, transaction types, and statuses.
 
-## 🔍 Key Objectives
+## Key Objectives
 - Analyze transaction failures  
 - Identify high-risk patterns (timeouts, network issues)  
 - Perform EDA using Pandas  
@@ -12,7 +12,7 @@ This project simulates a banking environment with **10,000 financial transaction
 
 ---
 
-## 📂 Files Included
+## Files Included
 - `bank_transactions.csv` — Synthetic dataset  
 - `analysis_banking.py` — Python EDA script  
 - `transactions_per_day.png` — Generated plot  
@@ -21,7 +21,7 @@ This project simulates a banking environment with **10,000 financial transaction
 
 ---
 
-## 📊 Insights Generated
+## Insights Generated
 - Daily transaction volume trends  
 - Failure distribution with error codes  
 - Branch-wise and transaction-type patterns  
@@ -29,6 +29,6 @@ This project simulates a banking environment with **10,000 financial transaction
 
 ---
 
-## ▶ How to Run
+## How to Run
 ```bash
 python analysis_banking.py
